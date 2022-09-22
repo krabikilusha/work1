@@ -13,19 +13,23 @@
 Основаны команды:
 
 ```bash-
-*git init*
+git clone
 ```
 
 ```bash-
-*git add*
+git init
 ```
 
 ```bash-
-*git commit*
+git add
 ```
 
 ```bash-
-*git push*
+git commit
+```
+
+```bash-
+git push
 ```
 
 Также создание ссылок внутри языка *git*
