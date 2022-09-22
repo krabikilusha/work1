@@ -12,13 +12,21 @@
 
 Основаны команды:
 
+```bash-
 *git init*
+```
 
+```bash-
 *git add*
+```
 
+```bash-
 *git commit*
+```
 
+```bash-
 *git push*
+```
 
 Также создание ссылок внутри языка *git*
 
